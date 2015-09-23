@@ -1,0 +1,83 @@
+bucket
+account
+prepaid balance
+recharge
+guarantee
+Management
+charges
+payment
+payment order
+payment responsible
+penalty
+penalty by subscriber
+purchase
+purchase card
+receipt
+service prices
+solicitude
+solicitude query
+solicitude query filter
+subscriber
+virutal card
+get client info proxy
+customer
+get payment responsibles from customer
+get payment responsibilities from customer---bad
+store
+get store reference
+customer
+get sumary customer status
+get user plan detail
+validate login
+subscriber
+subscribe
+registry
+contracts
+bindings
+advices
+advice
+pay
+payment
+payment responsible
+=====================================
+cubo
+cuenta
+saldo de prepago
+recargar
+garantía
+administración
+cargos
+pago
+orden de pago
+pago responsable
+pena
+penalidad por suscriptor
+compra
+tarjeta de compra
+recibo
+precios de los servicios
+solicitud
+consulta solicitud
+filtro de consulta solicitud
+suscriptor
+tarjeta virutal
+obtener información de proxy cliente
+cliente
+conseguir responsables del pago de los clientes
+conseguir responsabilidades de pago del cliente --- mal
+tienda
+conseguir referencia tienda
+cliente
+obtener el estado del cliente Sumario
+obtener los detalles del plan de usuario
+validar entrada
+suscriptor
+suscribir
+registro
+contratos
+encuadernaciones
+consejos
+asesoramiento
+pagar
+pago
+pago responsable
